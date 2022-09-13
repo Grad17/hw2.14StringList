@@ -1,8 +1,8 @@
 package pro.sky.hw2.StringList;
 
 public class Constans {
-    public static final String QWE = "qwe";
-    public static final String ASD = "asd";
-    public static final String ZXC = "zxc";
-    public static final String RTY = "rty";
+    public static final Integer QWE = 123;
+    public static final Integer ASD = 456;
+    public static final Integer ZXC = 789;
+    public static final Integer RTY = 159;
 }

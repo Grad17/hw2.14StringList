@@ -1,4 +1,4 @@
-package pro.sky.hw2.StringList;
+package pro.sky.hw2.IntegerList;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
